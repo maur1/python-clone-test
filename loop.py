@@ -1,3 +1,3 @@
-for i in 100:
+for i in range(100):
   print(f"{i} counted")
   
